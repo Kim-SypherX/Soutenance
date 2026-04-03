@@ -1,0 +1,169 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0" version="29.6.6">
+  <diagram name="Page-1" id="jaWQBHZ-qxN93ZVKWZRS">
+    <mxGraphModel dx="1043" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ltSZN_oeH0pHowGlOM_N-1" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="1020" width="10" x="170" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="ltSZN_oeH0pHowGlOM_N-2" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="840" width="10" x="590" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="ltSZN_oeH0pHowGlOM_N-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="&lt;span style=&quot;color: rgb(17, 17, 17);&quot;&gt;Client&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="20" x="160" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="ltSZN_oeH0pHowGlOM_N-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="FITMOD" vertex="1">
+          <mxGeometry height="50" width="70" x="560" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="4f8iv20aKVaQXSXjOQQ--3" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" value="loop" vertex="1">
+          <mxGeometry height="670" width="690" x="30" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="4f8iv20aKVaQXSXjOQQ--4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="S&#39;authentifier" vertex="1">
+          <mxGeometry height="30" width="110" x="315" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="4f8iv20aKVaQXSXjOQQ--5" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" target="ltSZN_oeH0pHowGlOM_N-2" value="1 : Sélectionner un modèle de vêtement">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="180" y="520" as="sourcePoint" />
+            <mxPoint x="260" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4f8iv20aKVaQXSXjOQQ--6" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" target="ltSZN_oeH0pHowGlOM_N-1" value="1.1 : Vérifier fiche de mesures + charger modèle 3D">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="560" as="sourcePoint" />
+            <mxPoint x="510" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4f8iv20aKVaQXSXjOQQ--7" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" value="ref" vertex="1">
+          <mxGeometry height="80" width="730" x="30" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="4f8iv20aKVaQXSXjOQQ--12" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" value="3.1 : Charger et afficher modèle précédent / suivant">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="750" as="sourcePoint" />
+            <mxPoint x="180" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4f8iv20aKVaQXSXjOQQ--17" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.997;entryY=0.192;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.005;exitY=0.227;exitDx=0;exitDy=0;exitPerimeter=0;" target="4f8iv20aKVaQXSXjOQQ--33" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="49.999999999999815" y="775.0000000000001" as="sourcePoint" />
+            <mxPoint x="686.8" y="777.9500000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4f8iv20aKVaQXSXjOQQ--18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="[swipe main]" vertex="1">
+          <mxGeometry height="30" width="90" x="60" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="4f8iv20aKVaQXSXjOQQ--19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="[doigt haut / bas]" vertex="1">
+          <mxGeometry height="30" width="110" x="50" y="775" as="geometry" />
+        </mxCell>
+        <mxCell id="4f8iv20aKVaQXSXjOQQ--20" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="4 : Geste doigt haut / bas">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="180" y="810" as="sourcePoint" />
+            <mxPoint x="590" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4f8iv20aKVaQXSXjOQQ--21" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" value="4.1 : Appliquer couleur tissu suivante / précédente">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="860" as="sourcePoint" />
+            <mxPoint x="180" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4f8iv20aKVaQXSXjOQQ--22" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="5 : Geste pouce en l&#39;air">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="180" y="920" as="sourcePoint" />
+            <mxPoint x="590" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4f8iv20aKVaQXSXjOQQ--27" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" value="5.1 : Confirmer ajout aux favoris">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="970" as="sourcePoint" />
+            <mxPoint x="180" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4f8iv20aKVaQXSXjOQQ--28" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="6 : Geste poing fermé (confirmer commande)">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="180" y="1040" as="sourcePoint" />
+            <mxPoint x="590" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4f8iv20aKVaQXSXjOQQ--29" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" value="6.1 : Rediriger vers passage de commande">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="1100" as="sourcePoint" />
+            <mxPoint x="180" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4f8iv20aKVaQXSXjOQQ--30" edge="1" parent="1" source="ltSZN_oeH0pHowGlOM_N-2" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.658;exitY=1.004;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="595" y="380" />
+            </Array>
+            <mxPoint x="595" y="1240" as="sourcePoint" />
+            <mxPoint x="595" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4f8iv20aKVaQXSXjOQQ--32" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" value="2 : Afficher modèle 3D superposé sur corps (webcam)">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="600" as="sourcePoint" />
+            <mxPoint x="180" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4f8iv20aKVaQXSXjOQQ--33" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" value="alt" vertex="1">
+          <mxGeometry height="590" width="640" x="50" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="4f8iv20aKVaQXSXjOQQ--34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="[tant que cabine active]" vertex="1">
+          <mxGeometry height="30" width="150" x="285" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="4f8iv20aKVaQXSXjOQQ--35" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="3 : Geste swipe gauche / droite">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="180" y="700" as="sourcePoint" />
+            <mxPoint x="590" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4f8iv20aKVaQXSXjOQQ--36" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="48.72" y="880" as="sourcePoint" />
+            <mxPoint x="691" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4f8iv20aKVaQXSXjOQQ--37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="[pouce en l&#39;air]" vertex="1">
+          <mxGeometry height="30" width="100" x="55" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="4f8iv20aKVaQXSXjOQQ--38" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=0.465;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="50" y="1000" as="sourcePoint" />
+            <mxPoint x="690" y="998.53" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4f8iv20aKVaQXSXjOQQ--39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="[poing fermé]" vertex="1">
+          <mxGeometry height="30" width="90" x="55" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="4f8iv20aKVaQXSXjOQQ--40" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=0.465;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="50" y="1120" as="sourcePoint" />
+            <mxPoint x="690" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4f8iv20aKVaQXSXjOQQ--41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="[paume ouverte]" vertex="1">
+          <mxGeometry height="30" width="110" x="45" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="4f8iv20aKVaQXSXjOQQ--42" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="7 : Geste paume ouverte (quitter)">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="180" y="1160" as="sourcePoint" />
+            <mxPoint x="590" y="1160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4f8iv20aKVaQXSXjOQQ--43" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" value="7.1 : Désactiver cabine, retour menu principal">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="1200" as="sourcePoint" />
+            <mxPoint x="180" y="1200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4f8iv20aKVaQXSXjOQQ--44" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" value="8 : Session cabine d&#39;essayage terminée">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="1320" as="sourcePoint" />
+            <mxPoint x="180" y="1320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

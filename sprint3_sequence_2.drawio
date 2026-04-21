@@ -1,229 +1,268 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.6 Chrome/144.0.7559.236 Electron/40.8.4 Safari/537.36" version="29.6.6">
   <diagram name="Page-1" id="27Q1iA6ED6hL0EQHi3Il">
-    <mxGraphModel dx="1462" dy="1435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1895" dy="1462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4SfhB3UorTXv10JKX8l5-1" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
-          <mxGeometry height="1330" width="10" x="2495" y="150" as="geometry" />
+          <mxGeometry height="1130" width="10" x="2120" y="150" as="geometry" />
         </mxCell>
-        <mxCell id="4SfhB3UorTXv10JKX8l5-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="&lt;font color=&quot;#000000&quot;&gt;Client&lt;/font&gt;" vertex="1">
+        <mxCell id="4SfhB3UorTXv10JKX8l5-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Client&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="20" x="350" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="4SfhB3UorTXv10JKX8l5-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="IHM_ChatPage" vertex="1">
-          <mxGeometry height="50" width="150" x="690" y="80" as="geometry" />
+        <mxCell id="4SfhB3UorTXv10JKX8l5-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="&lt;b&gt;IHM_ChatPage&lt;/b&gt;" vertex="1">
+          <mxGeometry height="50" width="150" x="610" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="4SfhB3UorTXv10JKX8l5-6" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" value="&lt;span style=&quot;font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;1: Ouvrir la messagerie&lt;/span&gt;">
+        <mxCell id="4SfhB3UorTXv10JKX8l5-6" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" value="&lt;span style=&quot;font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&lt;b&gt;1: Ouvrir la messagerie&lt;/b&gt;&lt;/span&gt;">
           <mxGeometry relative="1" width="80" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="360" y="320" as="sourcePoint" />
-            <mxPoint x="760" y="320" as="targetPoint" />
+            <mxPoint x="680" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4SfhB3UorTXv10JKX8l5-7" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" value="&lt;span style=&quot;font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;1.2: Retourner les conversations&lt;/span&gt;">
+        <mxCell id="4SfhB3UorTXv10JKX8l5-7" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" value="&lt;span style=&quot;font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&lt;b&gt;1.2: Retourner les conversations&lt;/b&gt;&lt;/span&gt;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="1480" y="480" as="sourcePoint" />
-            <mxPoint x="760" y="480" as="targetPoint" />
+            <mxPoint x="1320" y="480" as="sourcePoint" />
+            <mxPoint x="680" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4SfhB3UorTXv10JKX8l5-11" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" value="&lt;span style=&quot;font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;4: Afficher l&#39;historique&lt;/span&gt;">
+        <mxCell id="4SfhB3UorTXv10JKX8l5-11" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" value="&lt;span style=&quot;font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&lt;b&gt;4: Afficher l&#39;historique&lt;/b&gt;&lt;/span&gt;">
           <mxGeometry relative="1" x="-0.0023" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="760" y="800" as="sourcePoint" />
+            <mxPoint x="680" y="800" as="sourcePoint" />
             <mxPoint x="370" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4SfhB3UorTXv10JKX8l5-12" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" value="&lt;span style=&quot;font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;5.3: Réception temps réel du message&lt;/span&gt;">
+        <mxCell id="4SfhB3UorTXv10JKX8l5-12" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" value="&lt;span style=&quot;font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&lt;b&gt;5.3: Réception temps réel du message&lt;/b&gt;&lt;/span&gt;">
           <mxGeometry relative="1" x="-0.001" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="1159" y="1080" as="sourcePoint" />
-            <mxPoint x="2160" y="1080" as="targetPoint" />
+            <mxPoint x="1000" y="1080" as="sourcePoint" />
+            <mxPoint x="1840" y="1080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4SfhB3UorTXv10JKX8l5-13" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" value="">
+        <mxCell id="4SfhB3UorTXv10JKX8l5-13" edge="1" parent="1" source="nIHCH8gslrH7deZti6YB-7" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="760" y="320" />
-            </Array>
-            <mxPoint x="760" y="1480" as="sourcePoint" />
-            <mxPoint x="760" y="130" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="680" y="1280" as="sourcePoint" />
+            <mxPoint x="680" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4SfhB3UorTXv10JKX8l5-22" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" value="&lt;span style=&quot;font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;3: Sélectionner une conversation&lt;/span&gt;">
+        <mxCell id="4SfhB3UorTXv10JKX8l5-22" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" value="&lt;span style=&quot;font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&lt;b&gt;3: Sélectionner une conversation&lt;/b&gt;&lt;/span&gt;">
           <mxGeometry relative="1" width="80" as="geometry">
             <mxPoint x="370" y="560" as="sourcePoint" />
-            <mxPoint x="760" y="560" as="targetPoint" />
+            <mxPoint x="680" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4SfhB3UorTXv10JKX8l5-24" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" value="&lt;span style=&quot;font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;1.1.2: Liste des conversations&lt;/span&gt;">
+        <mxCell id="4SfhB3UorTXv10JKX8l5-24" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" value="&lt;span style=&quot;font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&lt;b&gt;1.1.2: Liste des conversations&lt;/b&gt;&lt;/span&gt;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="1840" y="440" as="sourcePoint" />
-            <mxPoint x="1480" y="440" as="targetPoint" />
+            <mxPoint x="1600" y="440" as="sourcePoint" />
+            <mxPoint x="1320" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4SfhB3UorTXv10JKX8l5-25" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" value="&lt;span style=&quot;font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;1.1: GET /api/chat/conversations&lt;/span&gt;">
+        <mxCell id="4SfhB3UorTXv10JKX8l5-25" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" value="&lt;span style=&quot;font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&lt;b&gt;1.1: GET /api/chat/conversations&lt;/b&gt;&lt;/span&gt;">
           <mxGeometry relative="1" width="80" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="760" y="360" as="sourcePoint" />
-            <mxPoint x="1480" y="360" as="targetPoint" />
+            <mxPoint x="680" y="360" as="sourcePoint" />
+            <mxPoint x="1320" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4SfhB3UorTXv10JKX8l5-27" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" target="QOut1dAzynuwdo8zFj49-3" value="&lt;span style=&quot;font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;2: Afficher la liste des discussions&lt;/span&gt;">
+        <mxCell id="4SfhB3UorTXv10JKX8l5-27" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" target="QOut1dAzynuwdo8zFj49-3" value="&lt;span style=&quot;font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&lt;b&gt;2: Afficher la liste des discussions&lt;/b&gt;&lt;/span&gt;">
           <mxGeometry relative="1" x="-0.0023" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="760" y="520" as="sourcePoint" />
+            <mxPoint x="680" y="520" as="sourcePoint" />
             <mxPoint x="360" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4SfhB3UorTXv10JKX8l5-28" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" value="&lt;span style=&quot;font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;5.1: POST /api/chat/messages (type=TEXT, contenu)&lt;/span&gt;">
+        <mxCell id="4SfhB3UorTXv10JKX8l5-28" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" value="&lt;span style=&quot;font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&lt;b&gt;5.1: POST /api/chat/messages (type=TEXT, contenu)&lt;/b&gt;&lt;/span&gt;">
           <mxGeometry relative="1" width="80" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="760" y="880" as="sourcePoint" />
-            <mxPoint x="1480" y="880" as="targetPoint" />
+            <mxPoint x="680" y="880" as="sourcePoint" />
+            <mxPoint x="1320" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4SfhB3UorTXv10JKX8l5-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="Select_ID" vertex="1">
-          <mxGeometry height="50" width="150" x="1080" y="80" as="geometry" />
+        <mxCell id="4SfhB3UorTXv10JKX8l5-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="&lt;b&gt;Select_ID&lt;/b&gt;" vertex="1">
+          <mxGeometry height="50" width="150" x="920" y="75" as="geometry" />
         </mxCell>
         <mxCell id="4SfhB3UorTXv10JKX8l5-37" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="1160" y="319.99999999999994" />
-            </Array>
-            <mxPoint x="1160" y="1480" as="sourcePoint" />
-            <mxPoint x="1160" y="130" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="1000" y="1280" as="sourcePoint" />
+            <mxPoint x="1000" y="125" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4SfhB3UorTXv10JKX8l5-38" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" value="&lt;span style=&quot;font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;5: Rédiger et envoyer un message&lt;/span&gt;">
+        <mxCell id="4SfhB3UorTXv10JKX8l5-38" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" value="&lt;span style=&quot;font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&lt;b&gt;5: Rédiger et envoyer un message&lt;/b&gt;&lt;/span&gt;">
           <mxGeometry relative="1" width="80" x="-0.0023" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="370" y="840" as="sourcePoint" />
-            <mxPoint x="760" y="840" as="targetPoint" />
+            <mxPoint x="680" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4SfhB3UorTXv10JKX8l5-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="CTRL_Chat" vertex="1">
-          <mxGeometry height="50" width="150" x="1420" y="80" as="geometry" />
+        <mxCell id="4SfhB3UorTXv10JKX8l5-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="&lt;b&gt;CTRL_Chat&lt;/b&gt;" vertex="1">
+          <mxGeometry height="50" width="150" x="1241" y="75" as="geometry" />
         </mxCell>
-        <mxCell id="4SfhB3UorTXv10JKX8l5-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="Base de donnees" vertex="1">
-          <mxGeometry height="50" width="150" x="1780" y="75" as="geometry" />
+        <mxCell id="4SfhB3UorTXv10JKX8l5-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="&lt;b&gt;Base de donnees&lt;/b&gt;" vertex="1">
+          <mxGeometry height="50" width="150" x="1520" y="75" as="geometry" />
         </mxCell>
-        <mxCell id="4SfhB3UorTXv10JKX8l5-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="IHM_ChatPage(Tailleur)" vertex="1">
-          <mxGeometry height="50" width="150" x="2090" y="80" as="geometry" />
+        <mxCell id="4SfhB3UorTXv10JKX8l5-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="&lt;b&gt;IHM_ChatPage(Tailleur)&lt;/b&gt;" vertex="1">
+          <mxGeometry height="50" width="150" x="1760" y="75" as="geometry" />
         </mxCell>
-        <mxCell id="4SfhB3UorTXv10JKX8l5-42" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.455;entryY=1.088;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#1ba1e2;strokeColor=#006EAF;" value="">
+        <mxCell id="4SfhB3UorTXv10JKX8l5-42" edge="1" parent="1" source="nIHCH8gslrH7deZti6YB-13" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.455;entryY=1.088;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#1ba1e2;strokeColor=#006EAF;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points" />
-            <mxPoint x="1840" y="1480" as="sourcePoint" />
-            <mxPoint x="1840" y="120.00000000000009" as="targetPoint" />
+            <mxPoint x="1600" y="1280" as="sourcePoint" />
+            <mxPoint x="1600" y="120.00000000000009" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4SfhB3UorTXv10JKX8l5-43" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="1480" y="179.99999999999994" />
-            </Array>
-            <mxPoint x="1480" y="1480" as="sourcePoint" />
-            <mxPoint x="1480" y="129.99999999999994" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="1320" y="1280" as="sourcePoint" />
+            <mxPoint x="1320" y="129.99999999999994" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4SfhB3UorTXv10JKX8l5-44" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="2160" y="179.99999999999994" />
+              <mxPoint x="1840" y="179.99999999999994" />
             </Array>
-            <mxPoint x="2160" y="1480" as="sourcePoint" />
-            <mxPoint x="2160" y="129.99999999999994" as="targetPoint" />
+            <mxPoint x="1840" y="1280" as="sourcePoint" />
+            <mxPoint x="1840" y="129.99999999999994" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4SfhB3UorTXv10JKX8l5-46" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" value="&lt;span style=&quot;font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;5.2: Confirmation&lt;/span&gt;">
+        <mxCell id="4SfhB3UorTXv10JKX8l5-46" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" value="&lt;span style=&quot;font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&lt;b&gt;5.2: Confirmation&lt;/b&gt;&lt;/span&gt;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="1480" y="1040" as="sourcePoint" />
-            <mxPoint x="760" y="1040" as="targetPoint" />
+            <mxPoint x="1320" y="1040" as="sourcePoint" />
+            <mxPoint x="680" y="1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4SfhB3UorTXv10JKX8l5-48" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" value="&lt;span style=&quot;font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;3.1: GET /api/chat/messages/:conversationId&lt;/span&gt;">
+        <mxCell id="4SfhB3UorTXv10JKX8l5-48" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" value="&lt;span style=&quot;font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&lt;b&gt;3.1: GET /api/chat/messages/:conversationId&lt;/b&gt;&lt;/span&gt;">
           <mxGeometry relative="1" width="80" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="760" y="600" as="sourcePoint" />
-            <mxPoint x="1480" y="600" as="targetPoint" />
+            <mxPoint x="680" y="600" as="sourcePoint" />
+            <mxPoint x="1320" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4SfhB3UorTXv10JKX8l5-49" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" value="&lt;span style=&quot;font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;5.1.1: INSERT INTO message&lt;/span&gt;">
+        <mxCell id="4SfhB3UorTXv10JKX8l5-49" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" value="&lt;span style=&quot;font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&lt;b&gt;5.1.1: INSERT INTO message&lt;/b&gt;&lt;/span&gt;">
           <mxGeometry relative="1" width="80" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="1480" y="920" as="sourcePoint" />
-            <mxPoint x="1840" y="920" as="targetPoint" />
+            <mxPoint x="1320" y="920" as="sourcePoint" />
+            <mxPoint x="1600" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4SfhB3UorTXv10JKX8l5-53" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" value="&lt;span style=&quot;font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;5.1.2: Message enregistré&lt;/span&gt;">
+        <mxCell id="4SfhB3UorTXv10JKX8l5-53" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" value="&lt;span style=&quot;font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&lt;b&gt;5.1.2: Message enregistré&lt;/b&gt;&lt;/span&gt;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1840" y="960" as="sourcePoint" />
-            <mxPoint x="1480" y="960" as="targetPoint" />
+            <mxPoint x="1600" y="960" as="sourcePoint" />
+            <mxPoint x="1320" y="960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4SfhB3UorTXv10JKX8l5-54" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" value="&lt;span style=&quot;font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;3.2: Retourner les messages&lt;/span&gt;">
+        <mxCell id="4SfhB3UorTXv10JKX8l5-54" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" value="&lt;span style=&quot;font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&lt;b&gt;3.2: Retourner les messages&lt;/b&gt;&lt;/span&gt;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="1480" y="720" as="sourcePoint" />
-            <mxPoint x="760" y="720" as="targetPoint" />
+            <mxPoint x="1320" y="720" as="sourcePoint" />
+            <mxPoint x="680" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4SfhB3UorTXv10JKX8l5-57" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;S&#39;authentifier&lt;/b&gt;" vertex="1">
-          <mxGeometry height="45" width="200" x="1170" y="225" as="geometry" />
+          <mxGeometry height="45" width="200" x="1090" y="217.5" as="geometry" />
         </mxCell>
-        <mxCell id="4SfhB3UorTXv10JKX8l5-58" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fillColor=#b1ddf0;strokeColor=#10739e;" value="ref" vertex="1">
-          <mxGeometry height="80" width="2050" x="230" y="200" as="geometry" />
+        <mxCell id="4SfhB3UorTXv10JKX8l5-58" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fillColor=#b1ddf0;strokeColor=#10739e;" value="&lt;b&gt;ref&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="2010" x="230" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="c1wc4NNmBTipllxEpFHZ-3" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" value="&lt;span style=&quot;font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;3.3: Rejoindre la room (join_conversation)&lt;/span&gt;">
+        <mxCell id="c1wc4NNmBTipllxEpFHZ-3" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" value="&lt;span style=&quot;font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&lt;b&gt;3.3: Rejoindre la room (join_conversation)&lt;/b&gt;&lt;/span&gt;">
           <mxGeometry relative="1" width="80" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="760" y="760" as="sourcePoint" />
-            <mxPoint x="1160" y="760" as="targetPoint" />
+            <mxPoint x="680" y="760" as="sourcePoint" />
+            <mxPoint x="1000" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QOut1dAzynuwdo8zFj49-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="&lt;font color=&quot;#000000&quot;&gt;Tailleur&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="20" x="2490" y="70" as="geometry" />
+        <mxCell id="QOut1dAzynuwdo8zFj49-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Tailleur&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="20" x="2110" y="70" as="geometry" />
         </mxCell>
         <mxCell id="QOut1dAzynuwdo8zFj49-3" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
-          <mxGeometry height="1330" width="10" x="360" y="160" as="geometry" />
+          <mxGeometry height="1120" width="10" x="360" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="QOut1dAzynuwdo8zFj49-4" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" value="&lt;span style=&quot;font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;1.1.1: SELECT conversations du client&lt;/span&gt;">
+        <mxCell id="QOut1dAzynuwdo8zFj49-4" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" value="&lt;span style=&quot;font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&lt;b&gt;1.1.1: SELECT conversations du client&lt;/b&gt;&lt;/span&gt;">
           <mxGeometry relative="1" width="80" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="1480" y="400" as="sourcePoint" />
-            <mxPoint x="1840" y="400" as="targetPoint" />
+            <mxPoint x="1320" y="400" as="sourcePoint" />
+            <mxPoint x="1600" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QOut1dAzynuwdo8zFj49-5" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" value="&lt;span style=&quot;font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;5.1.3: Émettre événement&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&quot;nouveau_message&quot;&lt;/span&gt;&lt;/div&gt;">
+        <mxCell id="QOut1dAzynuwdo8zFj49-5" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" value="&lt;span style=&quot;font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&lt;b&gt;5.1.3: Émettre événement&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&lt;b&gt;&quot;nouveau_message&quot;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;">
           <mxGeometry relative="1" width="80" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="1480" y="1000" as="sourcePoint" />
-            <mxPoint x="1160" y="1000" as="targetPoint" />
+            <mxPoint x="1320" y="1000" as="sourcePoint" />
+            <mxPoint x="1000" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QOut1dAzynuwdo8zFj49-6" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" value="&lt;span style=&quot;font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;3.1.1: SELECT messages de la conversation&lt;/span&gt;">
+        <mxCell id="QOut1dAzynuwdo8zFj49-6" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" value="&lt;span style=&quot;font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&lt;b&gt;3.1.1: SELECT messages de la conversation&lt;/b&gt;&lt;/span&gt;">
           <mxGeometry relative="1" width="80" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="1480" y="640" as="sourcePoint" />
-            <mxPoint x="1840" y="640" as="targetPoint" />
+            <mxPoint x="1320" y="640" as="sourcePoint" />
+            <mxPoint x="1600" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QOut1dAzynuwdo8zFj49-7" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" value="&lt;span style=&quot;font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;3.1.2: Historique des messages&lt;/span&gt;">
+        <mxCell id="QOut1dAzynuwdo8zFj49-7" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" value="&lt;span style=&quot;font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&lt;b&gt;3.1.2: Historique des messages&lt;/b&gt;&lt;/span&gt;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="1840" y="680" as="sourcePoint" />
-            <mxPoint x="1480" y="680" as="targetPoint" />
+            <mxPoint x="1600" y="680" as="sourcePoint" />
+            <mxPoint x="1320" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QOut1dAzynuwdo8zFj49-9" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" target="4SfhB3UorTXv10JKX8l5-1" value="&lt;span style=&quot;font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;6: Afficher le nouveau message&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;instantanément&lt;/span&gt;&lt;/div&gt;">
+        <mxCell id="QOut1dAzynuwdo8zFj49-9" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" target="4SfhB3UorTXv10JKX8l5-1" value="&lt;span style=&quot;font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&lt;b&gt;6: Afficher le nouveau message&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&lt;b&gt;instantanément&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;">
           <mxGeometry relative="1" x="-0.0014" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="2160" y="1120" as="sourcePoint" />
-            <mxPoint x="3161" y="1120" as="targetPoint" />
+            <mxPoint x="1840" y="1120" as="sourcePoint" />
+            <mxPoint x="2110" y="1120" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="nIHCH8gslrH7deZti6YB-3" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="40" width="10" x="680" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="nIHCH8gslrH7deZti6YB-4" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="35" width="10" x="680" y="565" as="geometry" />
+        </mxCell>
+        <mxCell id="nIHCH8gslrH7deZti6YB-8" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" target="nIHCH8gslrH7deZti6YB-7" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points" />
+            <mxPoint x="680" y="1280" as="sourcePoint" />
+            <mxPoint x="680" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nIHCH8gslrH7deZti6YB-7" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="40" width="10" x="680" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="nIHCH8gslrH7deZti6YB-9" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="40" width="10" x="1000" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="nIHCH8gslrH7deZti6YB-11" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="40" width="10" x="1320" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="nIHCH8gslrH7deZti6YB-14" edge="1" parent="1" source="nIHCH8gslrH7deZti6YB-15" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.455;entryY=1.088;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#1ba1e2;strokeColor=#006EAF;" target="nIHCH8gslrH7deZti6YB-13" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points" />
+            <mxPoint x="1600" y="1280" as="sourcePoint" />
+            <mxPoint x="1600" y="120.00000000000009" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nIHCH8gslrH7deZti6YB-13" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="40" width="10" x="1600" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="nIHCH8gslrH7deZti6YB-16" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.455;entryY=1.088;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#1ba1e2;strokeColor=#006EAF;" target="nIHCH8gslrH7deZti6YB-15" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points" />
+            <mxPoint x="1600" y="1280" as="sourcePoint" />
+            <mxPoint x="1605" y="444" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nIHCH8gslrH7deZti6YB-15" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="40" width="10" x="1600" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="nIHCH8gslrH7deZti6YB-17" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="40" width="10" x="1600" y="920" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

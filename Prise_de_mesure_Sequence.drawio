@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.6 Chrome/144.0.7559.236 Electron/40.8.4 Safari/537.36" version="29.6.6">
   <diagram name="Page-1" id="jaWQBHZ-qxN93ZVKWZRS">
-    <mxGraphModel dx="831" dy="990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1371" dy="999" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,55 +10,55 @@
         <mxCell id="ltSZN_oeH0pHowGlOM_N-2" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
           <mxGeometry height="720" width="10" x="590" y="520" as="geometry" />
         </mxCell>
-        <mxCell id="ltSZN_oeH0pHowGlOM_N-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="&lt;span style=&quot;color: rgb(17, 17, 17);&quot;&gt;Client&lt;/span&gt;" vertex="1">
+        <mxCell id="ltSZN_oeH0pHowGlOM_N-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="&lt;span style=&quot;color: rgb(17, 17, 17);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Client&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="20" x="160" y="280" as="geometry" />
         </mxCell>
-        <mxCell id="ltSZN_oeH0pHowGlOM_N-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="FITMOD" vertex="1">
+        <mxCell id="ltSZN_oeH0pHowGlOM_N-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;FITMOD&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="50" width="70" x="560" y="280" as="geometry" />
         </mxCell>
-        <mxCell id="4f8iv20aKVaQXSXjOQQ--3" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" value="alt" vertex="1">
-          <mxGeometry height="500" width="730" x="30" y="580" as="geometry" />
+        <mxCell id="4f8iv20aKVaQXSXjOQQ--3" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;alt&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="500" width="750" x="20" y="580" as="geometry" />
         </mxCell>
-        <mxCell id="4f8iv20aKVaQXSXjOQQ--4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="S&#39;authentifier" vertex="1">
+        <mxCell id="4f8iv20aKVaQXSXjOQQ--4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;S&#39;authentifier&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="110" x="315" y="420" as="geometry" />
         </mxCell>
-        <mxCell id="4f8iv20aKVaQXSXjOQQ--5" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" target="ltSZN_oeH0pHowGlOM_N-2" value="1 : Activer la cabine d&#39;essayage">
+        <mxCell id="4f8iv20aKVaQXSXjOQQ--5" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" target="ltSZN_oeH0pHowGlOM_N-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;1 : Activer la cabine d&#39;essayage&lt;/font&gt;&lt;/b&gt;">
           <mxGeometry relative="1" width="80" as="geometry">
             <mxPoint x="180" y="520" as="sourcePoint" />
             <mxPoint x="260" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4f8iv20aKVaQXSXjOQQ--6" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" target="ltSZN_oeH0pHowGlOM_N-1" value="1.1 : Afficher interface de prise de mesures">
+        <mxCell id="4f8iv20aKVaQXSXjOQQ--6" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" target="ltSZN_oeH0pHowGlOM_N-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;1.1 : Afficher interface de prise de mesures&lt;/b&gt;&lt;/font&gt;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="590" y="560" as="sourcePoint" />
             <mxPoint x="510" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4f8iv20aKVaQXSXjOQQ--7" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" value="ref" vertex="1">
+        <mxCell id="4f8iv20aKVaQXSXjOQQ--7" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;ref&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="80" width="730" x="30" y="410" as="geometry" />
         </mxCell>
-        <mxCell id="4f8iv20aKVaQXSXjOQQ--8" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="2 : Choisir mode webcam + autoriser&amp;nbsp;accès caméra">
+        <mxCell id="4f8iv20aKVaQXSXjOQQ--8" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;2 : Choisir mode webcam + autoriser&amp;nbsp;accès caméra&lt;/font&gt;&lt;/b&gt;">
           <mxGeometry relative="1" width="80" as="geometry">
             <mxPoint x="180" y="600" as="sourcePoint" />
             <mxPoint x="590" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4f8iv20aKVaQXSXjOQQ--9" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" value="2.1 : Afficher guide visuel(position, guidage,&amp;nbsp;éclairage)">
+        <mxCell id="4f8iv20aKVaQXSXjOQQ--9" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;2.1 : Afficher guide visuel(position, guidage,&amp;nbsp;éclairage)&lt;/b&gt;&lt;/font&gt;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="590" y="640" as="sourcePoint" />
             <mxPoint x="180" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4f8iv20aKVaQXSXjOQQ--10" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" value="loop" vertex="1">
+        <mxCell id="4f8iv20aKVaQXSXjOQQ--10" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;loop&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="120" width="560" x="100" y="660" as="geometry" />
         </mxCell>
-        <mxCell id="4f8iv20aKVaQXSXjOQQ--11" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="[jusqu&#39;à position correcte détectée]&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3 :&amp;nbsp;Transmettre flux vidéo temps réel&lt;/div&gt;">
+        <mxCell id="4f8iv20aKVaQXSXjOQQ--11" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;[jusqu&#39;à position correcte détectée]&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;3 :&amp;nbsp;Transmettre flux vidéo temps réel&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;">
           <mxGeometry relative="1" width="80" as="geometry">
             <mxPoint x="180" y="719.5" as="sourcePoint" />
             <mxPoint x="590" y="719.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4f8iv20aKVaQXSXjOQQ--12" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" value="3.1 :&amp;nbsp;Détecter 17 points clés + retourner guide visuel">
+        <mxCell id="4f8iv20aKVaQXSXjOQQ--12" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;3.1 :&amp;nbsp;Détecter 17 points clés + retourner guide visuel&lt;/b&gt;&lt;/font&gt;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="590" y="760" as="sourcePoint" />
             <mxPoint x="180" y="760" as="targetPoint" />
@@ -74,34 +74,34 @@
             <mxPoint x="650" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4f8iv20aKVaQXSXjOQQ--17" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
+        <mxCell id="4f8iv20aKVaQXSXjOQQ--17" edge="1" parent="1" source="4f8iv20aKVaQXSXjOQQ--3" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.001;exitY=0.518;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.003;entryY=0.518;entryDx=0;entryDy=0;entryPerimeter=0;" target="4f8iv20aKVaQXSXjOQQ--3" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="30" y="840" as="sourcePoint" />
             <mxPoint x="760" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4f8iv20aKVaQXSXjOQQ--15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="4: Calculer mesures&amp;nbsp;&lt;div&gt;corporelles&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="130" x="630" y="790" as="geometry" />
+        <mxCell id="4f8iv20aKVaQXSXjOQQ--15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;4: Calculer mesures&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font size=&quot;3&quot;&gt;corporelles&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="160" x="615" y="785" as="geometry" />
         </mxCell>
-        <mxCell id="4f8iv20aKVaQXSXjOQQ--18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="[mode webcam]" vertex="1">
-          <mxGeometry height="30" width="110" x="60" y="610" as="geometry" />
+        <mxCell id="4f8iv20aKVaQXSXjOQQ--18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;[mode webcam]&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="50" y="610" as="geometry" />
         </mxCell>
-        <mxCell id="4f8iv20aKVaQXSXjOQQ--19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="[mode upload photos]" vertex="1">
-          <mxGeometry height="30" width="140" x="30" y="850" as="geometry" />
+        <mxCell id="4f8iv20aKVaQXSXjOQQ--19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;[mode upload photos]&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="170" x="10" y="850" as="geometry" />
         </mxCell>
-        <mxCell id="4f8iv20aKVaQXSXjOQQ--20" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="2 : Choisir mode upload photos">
+        <mxCell id="4f8iv20aKVaQXSXjOQQ--20" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;2 : Choisir mode upload photos&lt;/b&gt;&lt;/font&gt;">
           <mxGeometry relative="1" width="80" as="geometry">
             <mxPoint x="180" y="880" as="sourcePoint" />
             <mxPoint x="590" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4f8iv20aKVaQXSXjOQQ--21" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" value="2.1 : Afficher guide (vue face + vue profil)">
+        <mxCell id="4f8iv20aKVaQXSXjOQQ--21" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;2.1 : Afficher guide (vue face + vue profil)&lt;/b&gt;&lt;/font&gt;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="590" y="920" as="sourcePoint" />
             <mxPoint x="180" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4f8iv20aKVaQXSXjOQQ--22" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="3 : Uploader 2 photos + renseigner taille réelle">
+        <mxCell id="4f8iv20aKVaQXSXjOQQ--22" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;3 : Uploader 2 photos + renseigner taille réelle&lt;/b&gt;&lt;/font&gt;">
           <mxGeometry relative="1" width="80" as="geometry">
             <mxPoint x="180" y="960" as="sourcePoint" />
             <mxPoint x="590" y="960" as="targetPoint" />
@@ -118,11 +118,11 @@
             <mxPoint x="610" y="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4f8iv20aKVaQXSXjOQQ--24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;div&gt;3.1 : Extraire points clés&lt;/div&gt;&lt;div&gt;&amp;nbsp;des photos&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="150" x="610" y="960" as="geometry" />
+        <mxCell id="4f8iv20aKVaQXSXjOQQ--24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;3.1 : Extraire points clés&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp;des photos&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="180" x="595" y="955" as="geometry" />
         </mxCell>
-        <mxCell id="4f8iv20aKVaQXSXjOQQ--25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="4: Calculer mesures&amp;nbsp;&lt;div&gt;corporelles&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="130" x="630" y="1020" as="geometry" />
+        <mxCell id="4f8iv20aKVaQXSXjOQQ--25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;4: Calculer mesures&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font size=&quot;3&quot;&gt;corporelles&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="160" x="615" y="1015" as="geometry" />
         </mxCell>
         <mxCell id="4f8iv20aKVaQXSXjOQQ--26" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" target="ltSZN_oeH0pHowGlOM_N-2" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -134,19 +134,19 @@
             <mxPoint x="650" y="990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4f8iv20aKVaQXSXjOQQ--27" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" value="3 : Afficher fiche de mesures complète">
+        <mxCell id="4f8iv20aKVaQXSXjOQQ--27" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;3 : Afficher fiche de mesures complète&lt;/b&gt;&lt;/font&gt;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="590" y="1120" as="sourcePoint" />
             <mxPoint x="180" y="1120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4f8iv20aKVaQXSXjOQQ--28" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="4 : Ajuster / Valider les mesures">
+        <mxCell id="4f8iv20aKVaQXSXjOQQ--28" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;4 : Ajuster / Valider les mesures&lt;/font&gt;&lt;/b&gt;">
           <mxGeometry relative="1" width="80" as="geometry">
             <mxPoint x="180" y="1160" as="sourcePoint" />
             <mxPoint x="590" y="1160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4f8iv20aKVaQXSXjOQQ--29" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" value="4.1 : Mesures enregistrées avec succès">
+        <mxCell id="4f8iv20aKVaQXSXjOQQ--29" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;4.1 : Mesures enregistrées avec succès&lt;/b&gt;&lt;/font&gt;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="590" y="1200" as="sourcePoint" />
             <mxPoint x="180" y="1200" as="targetPoint" />
